@@ -1,2 +1,2 @@
 # Recreate-a-database-star-schema
-T-SQL database
+Final project of database class (T-SQL)
